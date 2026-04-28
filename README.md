@@ -13,7 +13,6 @@
 - 🌱 I’m currently refining my skills in **Django, Software Architecture, and API Integrations**
 - 👯 I’m looking to collaborate on **Open Source Python & Backend Projects**
 - 💬 Ask me about **Python, Django, Pyrogram, and Bot Development**
-- 📫 How to reach me: **[Your Email / Telegram Link]**
 
 ---
 
